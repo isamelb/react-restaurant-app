@@ -2,6 +2,10 @@
 
 The code in this repo meant to be a reference point for anyone following along with the video course.
 
+##Demo
+
+URL: Demo: https://ns-rsgznilalc.now.sh/  
+
 ## To Start
 
 1. Install all the dependencies `npm install`
