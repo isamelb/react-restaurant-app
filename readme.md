@@ -4,7 +4,7 @@ The code in this repo meant to be a reference point for anyone following along w
 
 ##Demo
 
-URL: Demo: https://ns-rsgznilalc.now.sh/  
+URL: Demo: https://ns-uqyvzhzomf.now.sh 
 
 ## To Start
 
